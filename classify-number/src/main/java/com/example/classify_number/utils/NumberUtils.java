@@ -1,4 +1,4 @@
-package com.example.classifynumber.utils;
+package com.example.classify_number.utils;
 
 public class NumberUtils {
 

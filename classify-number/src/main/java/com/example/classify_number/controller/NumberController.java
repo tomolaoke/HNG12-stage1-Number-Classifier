@@ -1,7 +1,7 @@
-package com.example.classifynumber.controller;
+package com.example.classify_number.controller;
 
-import com.example.classifynumber.model.NumberProperties;
-import com.example.classifynumber.service.NumberService;
+import com.example.classify_number.model.NumberProperties;
+import com.example.classify_number.service.NumberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

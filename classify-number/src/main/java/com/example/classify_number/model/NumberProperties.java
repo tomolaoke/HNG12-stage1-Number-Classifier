@@ -1,4 +1,4 @@
-package com.example.classifynumber.model;
+package com.example.classify_number.model;
 
 import java.util.List;
 

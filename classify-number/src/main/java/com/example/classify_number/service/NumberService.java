@@ -1,7 +1,7 @@
-package com.example.classifynumber.service;
+package com.example.classify_number.service;
 
-import com.example.classifynumber.model.NumberProperties;
-import com.example.classifynumber.utils.NumberUtils;
+import com.example.classify_number.model.NumberProperties;
+import com.example.classify_number.utils.NumberUtils;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
