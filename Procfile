@@ -1,1 +1,0 @@
-web: java -jar target/hngx-stage1-classify-number-0.0.1-SNAPSHOT.jar
